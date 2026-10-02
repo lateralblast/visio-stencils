@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/richardatlateralblast/vssz/master/vss.png)
+![Cat touching a server](https://raw.githubusercontent.com/richardatlateralblast/vssz/master/vss.png)
 
 Visio Stencils
 
