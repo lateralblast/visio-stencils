@@ -1,4 +1,4 @@
-![Cat touching a server](https://raw.githubusercontent.com/richardatlateralblast/vssz/master/vss.png)
+![Cat touching a server](vss.png)
 
 Visio Stencils
 
