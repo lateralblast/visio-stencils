@@ -1,6 +1,7 @@
 ![Cat touching a server](vss.png)
 
 Visio Stencils
+==============
 
 Introduction
 ------------
